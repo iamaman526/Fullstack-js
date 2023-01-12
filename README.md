@@ -16,6 +16,6 @@
 
 | No. 	| **Project Name** 	| **Project Folder**                                                                  	| Assignment Date 	|
 |-----	|------------------	|-------------------------------------------------------------------------------------	|-----------------	|
-| 1   	| SEO Master       	| [Click Here]() 	| 20th November   	|
+| 1   	| SEO Master       	| [Click Here](https://github.com/iamaman526/Fullstack-js/tree/main/FSJS-Project/Project-20th-nov/Project%2001) 	| 20th November   	|
 | 2   	| Crypto Market    	|<!-- [Click Here](./All%20Projects/1.%20Project%2020th%20Nov/FSJS%202.0%20Project%2002/)--> 	| 20th November   	|
 | 3   	| Fashion Hub      	| <!--[Click Here](./All%20Projects/1.%20Project%2020th%20Nov/FSJS%202.0%20Project%2003/) -->	| 20th November   	|
