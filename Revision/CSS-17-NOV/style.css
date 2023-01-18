@@ -1,0 +1,42 @@
+* {
+  color: blueviolet;
+  background-color: #808080;
+}
+
+p {
+  color: rgb(238, 11, 45);
+}
+
+#pra {
+  color: burlywood;
+}
+.hi {
+  color: black;
+  background-color: aqua;
+  border: 2px solid red;
+  /* border-width: 5px;
+    border-style: dotted;
+    border-color: olive; */
+
+  /* border-style: solid dotted double solid;  anticlock wise approch  */
+}
+
+/* ------------------------------------------------------------------ */
+
+/* Margin is from outside and padding is always from inside  */
+
+.hi {
+  border: 2p solid red;
+  background-color: aqua;
+  /* padding: 100px;
+  margin: 100px 20px 30px 40px; */
+  height: 300px;
+  width: 160px;
+  background-color: yellow;
+  /* margin-top: ;
+    margin-left:;
+    margin-bottom:;
+    margin-right:; */
+    text-align: right;
+    text-decoration-line: underline overline;
+}
