@@ -1,6 +1,6 @@
 # 💻 Projects of Fullstack Development
 
-### This repository have  HTML, CSS, JavaScript files and files for learning and building projects from it. <br>
+### This repository have  HTML, CSS, JavaScript files and files for learning and building projects from it. <br> <br>
 
 ## <img height="16px" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"><img height="16px" src="https://user-images.githubusercontent.com/110087385/210600757-c5cd4168-1913-4cb9-8c09-1d43f9a7565b.png"> HTML & CSS Projects
 
