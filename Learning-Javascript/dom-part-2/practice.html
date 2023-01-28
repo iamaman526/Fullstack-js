@@ -9,8 +9,7 @@
   <body id="there">
     <ul></ul>
     <p>Click "Remove" to remove the first item from the list:</p>
-
-
+    <p id="new">event listner</p>
     <button onclick="maths()" id="fsjs2">Submit</button>
     <p id="fs"></p>
 
@@ -34,26 +33,28 @@
       document.body.appendChild(title);
       //   document.body.removeChild(title)
 
-        function maths() {
-         let value =  prompt("solve this  30 - 20");  //storing value inside a function
-         if (value == 10) {
+      function maths() {
+        let value = prompt("solve this  30 - 20"); //storing value inside a function
+        if (value == 10) {
           document.getElementById("fs").innerText = "correct redirect";
-          document.getElementById("fsjs2").style.backgroundColor = "red"
-          
-         }
-         else
-         document.getElementById("fs").innerText = "wrong answer";
-         document.getElementById("there").style.backgroundColor = "green"
-
-           
+          document.getElementById("fsjs2").style.backgroundColor = "red";
+        } else {
+          document.getElementById("fs").innerText = "wrong answer";
+          document.getElementById("there").style.backgroundColor = "green";
+        }
       }
-
       for (let i = 0; i < 5; i++) {
         var para = document.createElement("p");
         para.className = "fsjs";
         para.textContent = "there";
         console.log(para);
         document.body.appendChild(para);
+      }
+
+      document.addEventListener("mouseenter" , hello)
+      function hello() {
+        document.getElementById("new").innerText = " mouse cliked"
+        
       }
     </script>
   </body>

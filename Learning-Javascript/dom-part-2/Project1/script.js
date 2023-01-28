@@ -16,3 +16,27 @@ function changeRandomColor() {
 }
 
 btn.addEventListener('click', changeRandomColor);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
