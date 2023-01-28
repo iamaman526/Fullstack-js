@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body id="there">
+    <ul></ul>
+    <p>Click "Remove" to remove the first item from the list:</p>
+
+
+    <button onclick="maths()" id="fsjs2">Submit</button>
+    <p id="fs"></p>
+
+    <script>
+      const data = `
+                    <li>aman</li>
+                    <li>adarsh</li>
+                    <li>krishna</li>
+                    <li>HERO</li>
+                    <li>SRK</li>`;
+
+      var list = document.querySelector("ul");
+      list.innerHTML = data;
+
+      let title = document.createElement("h1");
+      title.className = "new heading";
+      title.style.fontSize = "25px";
+      title.style.color = "green";
+      title.textContent = "super";
+      console.log(title);
+      document.body.appendChild(title);
+      //   document.body.removeChild(title)
+
+        function maths() {
+         let value =  prompt("solve this  30 - 20");  //storing value inside a function
+         if (value == 10) {
+          document.getElementById("fs").innerText = "correct redirect";
+          document.getElementById("fsjs2").style.backgroundColor = "red"
+          
+         }
+         else
+         document.getElementById("fs").innerText = "wrong answer";
+         document.getElementById("there").style.backgroundColor = "green"
+
+           
+      }
+
+      for (let i = 0; i < 5; i++) {
+        var para = document.createElement("p");
+        para.className = "fsjs";
+        para.textContent = "there";
+        console.log(para);
+        document.body.appendChild(para);
+      }
+    </script>
+  </body>
+</html>
