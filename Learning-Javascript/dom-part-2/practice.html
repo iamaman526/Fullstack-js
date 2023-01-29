@@ -51,11 +51,27 @@
         document.body.appendChild(para);
       }
 
-      document.addEventListener("mouseenter" , hello)
+      document.addEventListener("mouseenter", hello);
       function hello() {
-        document.getElementById("new").innerText = " mouse cliked"
-        
+        document.getElementById("new").innerText = " mouse cliked";
       }
+
+      // -----------------------------------28jan------------------------------------------------- //
+
+      // HOF => HIGHER ORDER FUNCTION
+      // CALLBACK
+      // function is calling a function
+      
+
+      function a() {
+        console.log(" I was called by a function");
+      }
+
+      function b() {
+        a();
+      }
+
+      b();
     </script>
   </body>
 </html>
