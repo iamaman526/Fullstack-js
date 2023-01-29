@@ -30,8 +30,7 @@
 
 ## <img height="16px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png"> Javascript Projects !
 
-| No  | **Project Name**        | **Project** Folder\*\*                                                        | **Assignment Date** |
-| --- | ----------------------- | ----------------------------------------------------------------------------- | ------------------- |
-| 1   | Backgrounc-color change | <!--[Click Here](./All%20Projects/2.%20Project%2026th%20Nov/Project%201/)-->  | ......              |
-| 2   | circle                    | <!--[Click Here](./All%20Projects/2.%20Project%2026th%20Nov/Project%202/) --> | .......             |
-| 3   |               | <!--[Click Here](./All%20Projects/2.%20Project%2026th%20Nov/Project%203/) --> | .......             |
+| No. 	| **Project Name**      	| **Project Live Link**                                	| **Project Folder**                                                        	| Assignment Date 	|
+|-----	|-----------------------	|------------------------------------------------------	|---------------------------------------------------------------------------	|-----------------	|
+| 1   	| Background-color changer 	| [Live](https://color-changer-dom.netlify.app/) 	| [Click Here](https://github.com/iamaman526/Fullstack-js/tree/main/Javascript-project/Background-color-change) 	| ----------   	|
+|  2    |   circle                  |  ....................                              |                                                                                                                    | .........    |      
