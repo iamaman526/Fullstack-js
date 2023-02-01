@@ -6,6 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>DOM</title>
     <style>
+      * {
+        margin: 0px;
+        padding: 0px;
+        box-sizing: border-box;
+
+      }
+      
+      html{
+            height: 100vh;
+        }
       .circle {
         position: absolute;
         width: 20px;
@@ -27,14 +37,22 @@
     <script>
 
       let body = document.querySelector("body");
+
       body.addEventListener("click", function (event) {
         let element = document.createElement("div");
         element.classList.add("circle");
-        console.log(element)
+        console.log(element);
 
+        let val = '0123456789ABCDEF';
+        let cons = '#';
+        for (let i = 0; i < 6; i++) {
+           cons = cons + val[Math.floor(Math.random()*16)]; 
+        }
+        element.style.backgroundColor = cons;
         element.style.left = event.clientX + "px";
         element.style.top = event.clientY + "px";
         body.appendChild(element);
+
       });
     </script>
   </body>
