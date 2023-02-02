@@ -30,7 +30,7 @@
 
 ## <img height="16px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png"> Javascript Projects !
 
-| No. | **Project Name**         | **Project Live Link**                          | **Project Folder**                                                                                            | Assignment Date |
-| --- | ------------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------- |
-| 1   | Background-color changer | [Live](https://color-changer-dom.netlify.app/) | [Click Here](https://github.com/iamaman526/Fullstack-js/tree/main/Javascript-project/Background-color-change) | ----------      |
-| 2   | circle                   | [Live](https://dom-circle-js.netlify.app/)                          |                                                                                                               | [click Here](https://github.com/iamaman526/Fullstack-js/tree/main/Javascript-project/circles)      |
+| No. | **Project Name**         | **Project Live Link**                          | **Project Folder**                                                                                            | Assignment Date                                                                               |
+| --- | ------------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| 1   | Background-color changer | [Live](https://color-changer-dom.netlify.app/) | [Click Here](https://github.com/iamaman526/Fullstack-js/tree/main/Javascript-project/Background-color-change) | ----------                                                                                    |[click Here](https://github.com/iamaman526/Fullstack-js/tree/main/Javascript-project/circles)
+| 2   | circle                   | [Live](https://dom-circle-js.netlify.app/)     |                                                                                                               |  |
