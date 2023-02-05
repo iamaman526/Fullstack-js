@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HTML and CSS</title>
+
+    <style>
+      /* child sel */
+      /* div p{
+            color: red
+        } */
+
+      /* adjacant sibling selector  */
+      /* div + p{
+            color: blue;
+        } */
+
+      /* Psudo selector  */
+      /* .abc::before {
+        content: "danger";
+        color: red;
+        font-size: 20px;
+      }
+
+      .cde::after {
+        content: "my name";
+        color: blue;
+        font-size: 23px;
+      } */
+
+      /* :hover  :focus*/
+
+      /* a:hover{
+        background-color: green;
+        color: red;
+        
+       }
+    
+       a:visited{
+        color: rgb(238, 0, 255);
+       } */
+
+      /* p:hover{
+        color: teal;
+       } */
+
+      input[type="text"]:focus {
+        color: red;
+        background-color: black;
+      }
+    </style>
+  </head>
+  <body>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+    <div>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+      <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+    </div>
+    <div class="abc">
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium?
+      </p>
+      <p class="cde">
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Laudantium?
+      </p>
+    </div>
+    <a href="https://www.google.com/">google + HELLOO</a>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga.</p>
+
+    Name: <input type="text" /> email: <input type="email" />
+  </body>
+</html>
