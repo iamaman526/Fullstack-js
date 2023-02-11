@@ -23,8 +23,8 @@ console.log(names);
 // console.log(array4);
 
 // //includes
-// let arry6 =[1,5,3,4,5,6,7];
-// console.log(arry6.includes(7,6));
+let arry6 =[1,5,3,4,5,6,7];
+console.log(arry6.includes(7,6));
 // console.log(arry6.indexOf(5)); //indexof
 
 // let num =[1,2,3,4,'aman',5,6,7];  //to find array //isarrayof
