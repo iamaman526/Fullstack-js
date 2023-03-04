@@ -3,11 +3,11 @@
 var Name = 'aman';
 let age = 24;
 let isMarried = false;
-let team ;
+let team  = undefined;
 let team1 = null
 
-console.log(typeof Name);
-console.log(typeof isMarried);
-console.log(typeof age);
-console.log(typeof team);
-console.log(typeof team1);
+console.log(Name +" " +typeof Name);
+console.log(age +" " +typeof isMarried);
+console.log(isMarried +" " + typeof age);
+console.log(team +" " + typeof team);
+console.log( team1 +" " +typeof team1);
