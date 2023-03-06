@@ -22,15 +22,14 @@
 
 ## <img height="16px" src="https://www.w3.org/html/logo/badge/html5-badge-h-solo.png"><img height="16px" src="https://user-images.githubusercontent.com/110087385/210600757-c5cd4168-1913-4cb9-8c09-1d43f9a7565b.png"><img height="16px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png"> FSJS Assignment !
 
-| No  | **Assignment Name** | **Assignment Folder**                                                         | **Assignment Date** |
-| --- | ------------------- | ----------------------------------------------------------------------------- | ------------------- |
-| 1   | HTML                | <!--[Click Here](./All%20Projects/2.%20Project%2026th%20Nov/Project%201/)-->  | ......              |
-| 2   | CSS                 | <!--[Click Here](./All%20Projects/2.%20Project%2026th%20Nov/Project%202/) --> | .......             |
-| 3   | JavaScript          | <!--[Click Here](./All%20Projects/2.%20Project%2026th%20Nov/Project%203/) --> | .......             |
+| No  | **Assignment Name** | **Assignment Folder**                                                                   | **Assignment Date** |
+| --- | ------------------- | --------------------------------------------------------------------------------------- | ------------------- |
+| 1   | HTML                | [Click Here](https://github.com/iamaman526/Fullstack-js/tree/main/FSJS-Assignment/HTML) | ......              |
+| 2   | JavaScript          | <!--[Click Here](./All%20Projects/2.%20Project%2026th%20Nov/Project%202/) -->           | .......             |
 
 ## <img height="16px" src="https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png"> Javascript Projects !
 
 | No. | **Project Name**         | **Project Live Link**                          | **Project Folder**                                                                                            | Assignment Date |
 | --- | ------------------------ | ---------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1   | Background-color changer | [Live](https://color-changer-dom.netlify.app/) | [Click Here](https://github.com/iamaman526/Fullstack-js/tree/main/Javascript-project/Background-color-change) | ----------      |
-| 2   | circle                   | [Live](https://dom-circle-js.netlify.app/)     |  [Click Here](https://github.com/iamaman526/Fullstack-js/tree/main/Javascript-project/circles)                |                 |
+| 2   | circle                   | [Live](https://dom-circle-js.netlify.app/)     | [Click Here](https://github.com/iamaman526/Fullstack-js/tree/main/Javascript-project/circles)                 |                 |

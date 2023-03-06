@@ -1,1 +1,1 @@
-### Assignments of html , css and javascript 
+### Assignments of Javascript 
